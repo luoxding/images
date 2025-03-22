@@ -1,3 +1,3 @@
-# gitbook-template 简介
+# 概要
 
-说明详见 https://github.com/riskers/blog/issues/48
+本仓库用于存储图片等数据，当图床使用。
